@@ -1,8 +1,4 @@
-<h1 align="center">Hello, I'm Jideobi 👋<br>IT Support Specialist</h1>
-
----
-
-<h2>🖥️ IT Projects</h2>
+<h1>🖥️ IT Projects</h1>
 
 ### 🔹 Active Directory
 - [Active Directory Home Lab](https://github.com/RancidJaye/Active-Directory-Home-Lab)  
